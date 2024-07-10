@@ -1,5 +1,4 @@
 name: Run Tests in Docker Container
-run-name: ${{ github.actor }} is pulling containers
 
 on:
   push:
